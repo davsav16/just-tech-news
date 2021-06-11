@@ -10,7 +10,11 @@
 ## Frameworks:
 - MySQL
 - Express
+<<<<<<< HEAD
 - Sequelize ORM
+=======
+- Sequelize
+>>>>>>> main
 
 ## Deployed at (no frontend, please use Insomnia or Walkman):
 https://afternoon-atoll-72529.herokuapp.com/
